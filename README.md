@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @prabhjotsdet
+- 👀 I’m interested in learning Automation, CI/CD and learning Automation to become Test Architect in future
+- 🌱 I’m currently learning UI and API Automation, Performance testing, Security testing, Framework creation
+- 📫 @mail: prabhjotsingh1710@gmail.com
